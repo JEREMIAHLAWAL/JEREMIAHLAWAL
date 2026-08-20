@@ -1,22 +1,14 @@
-## 👋 Hi, I'm Jeremiah
+## Hi, I'm Jeremiah
 
-I'm a Computer Science student at Cleveland State University with an interest in
-software engineering, AI, and robotics.
+I'm a Computer Science student at Cleveland State University (graduating Dec 2027) focused on systems programming, AI agents, and low-level development. I also work as a Teaching Assistant for Assembly and peer teacher for Calculus.
 
-Right now, I'm focused on:
-- Strengthening my core CS foundations
-- Building small, meaningful projects
-- Learning how real systems are designed and scaled
+### What I'm working on
+- **AI & Automation:** Building autonomous agent workflows and local server pipelines on Raspberry Pi / Linux.
+- **Systems & Core CS:** Writing low-level software in C/Assembly and building full-stack apps with Python and Java.
+- **Projects:** Developing TRAYNE and experimenting with hardware-software integrations.
 
-### 🛠️ Languages & Tools
-- Python
-- Java
-- Git / GitHub
-- IntelliJ IDEA
+### Tech stack
+- **Languages:** Python, Java, C / Assembly, SQL
+- **Tools & Systems:** Linux / Bash, Git, Raspberry Pi, Docker
 
-### 📌 Current Goals
-- Build 2–3 solid projects for Summer 2026 internships
-- Improve problem-solving and system thinking
-- Learn how software connects to real-world products
-
-Thanks for stopping by 🙂
+Looking for Summer 2027 software engineering, data, and AI/ML internships.
